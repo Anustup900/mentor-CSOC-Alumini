@@ -1,1 +1,0 @@
-# Alumini-Management-System-CPP
